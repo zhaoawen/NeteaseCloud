@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "element-ui": "^2.15.9",
+    "node-sass": "^7.0.3",
+    "sass-loader": "^13.0.2",
+    "vue-jsonp": "^2.0.0",
+    "vue-virtual-scroller": "^2.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "vue-lazyload": "^3.0.0-rc.2"
+  }
+}

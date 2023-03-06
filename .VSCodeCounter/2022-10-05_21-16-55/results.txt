@@ -1,0 +1,189 @@
+Date : 2022-10-05 21:16:55
+Directory : c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud
+Total : 106 files,  26515 codes, 680 comments, 622 blanks, all 27817 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          9 |     18,283 |          0 |          4 |     18,287 |
+| Vue                |         51 |      6,470 |        440 |        362 |      7,272 |
+| Markdown           |         21 |        868 |          0 |        135 |      1,003 |
+| JavaScript         |         21 |        724 |        227 |         76 |      1,027 |
+| CSS                |          2 |        143 |          0 |         44 |        187 |
+| HTML               |          1 |         19 |          1 |          1 |         21 |
+| JSON with Comments |          1 |          8 |         12 |          0 |         20 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                           | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                              |        106 |     26,515 |        680 |        622 |     27,817 |
+| .VSCodeCounter                                                                                                 |         25 |        858 |          0 |        130 |        988 |
+| .VSCodeCounter\2022-09-01_15-03-26                                                                             |          5 |        154 |          0 |         26 |        180 |
+| .VSCodeCounter\2022-09-01_16-14-52                                                                             |          5 |        159 |          0 |         26 |        185 |
+| .VSCodeCounter\2022-09-01_23-09-58                                                                             |          5 |        170 |          0 |         26 |        196 |
+| .VSCodeCounter\2022-09-01_23-37-52                                                                             |          5 |        165 |          0 |         26 |        191 |
+| .VSCodeCounter\2022-09-05_12-37-16                                                                             |          5 |        210 |          0 |         26 |        236 |
+| app                                                                                                            |         79 |     25,220 |        680 |        490 |     26,390 |
+| app\public                                                                                                     |          3 |         35 |          4 |          1 |         40 |
+| app\public\css                                                                                                 |          1 |          1 |          0 |          0 |          1 |
+| app\public\js                                                                                                  |          1 |         15 |          3 |          0 |         18 |
+| app\src                                                                                                        |         70 |      7,283 |        638 |        479 |      8,400 |
+| app\src\assets                                                                                                 |          2 |        160 |         10 |         46 |        216 |
+| app\src\assets\css                                                                                             |          1 |        142 |          0 |         44 |        186 |
+| app\src\assets\js                                                                                              |          1 |         18 |         10 |          2 |         30 |
+| app\src\components                                                                                             |         35 |      4,340 |        271 |        253 |      4,864 |
+| app\src\components\Item                                                                                        |          3 |        659 |         23 |         12 |        694 |
+| app\src\components\Login                                                                                       |          1 |        125 |          8 |          6 |        139 |
+| app\src\components\NavBar                                                                                      |          1 |         81 |          2 |          5 |         88 |
+| app\src\components\PClistCard                                                                                  |          1 |        121 |          7 |          8 |        136 |
+| app\src\components\PClistTable                                                                                 |          1 |        184 |          9 |         18 |        211 |
+| app\src\components\RecommendMusic                                                                              |          2 |        122 |          1 |         16 |        139 |
+| app\src\components\comment                                                                                     |          1 |        531 |         49 |         54 |        634 |
+| app\src\components\confirm                                                                                     |          1 |        130 |          3 |          1 |        134 |
+| app\src\components\cookie                                                                                      |          1 |         22 |          5 |          5 |         32 |
+| app\src\components\goTop                                                                                       |          1 |        109 |          5 |         12 |        126 |
+| app\src\components\home                                                                                        |          4 |        293 |         10 |         14 |        317 |
+| app\src\components\infoUser                                                                                    |          6 |        518 |         28 |         26 |        572 |
+| app\src\components\infoUser\FollowsAndFolloweds                                                                |          3 |        264 |         24 |         20 |        308 |
+| app\src\components\listCard                                                                                    |          1 |        122 |          7 |          8 |        137 |
+| app\src\components\listTable                                                                                   |          1 |        212 |          4 |         16 |        232 |
+| app\src\components\recycle-scroller                                                                            |          2 |        229 |         41 |          9 |        279 |
+| app\src\components\secondNavBar                                                                                |          1 |         87 |          1 |          5 |         93 |
+| app\src\components\tabs                                                                                        |          1 |         71 |          0 |          3 |         74 |
+| app\src\components\videoListCard                                                                               |          1 |        209 |         16 |         12 |        237 |
+| app\src\plugins                                                                                                |          3 |        119 |         13 |         10 |        142 |
+| app\src\request                                                                                                |         10 |        163 |         81 |         41 |        285 |
+| app\src\request\api                                                                                            |          9 |        129 |         66 |         34 |        229 |
+| app\src\router                                                                                                 |          1 |        104 |         37 |          4 |        145 |
+| app\src\store                                                                                                  |          1 |        214 |         37 |          2 |        253 |
+| app\src\views                                                                                                  |         16 |      2,116 |        174 |        110 |      2,400 |
+| app\src\views\Collection                                                                                       |          1 |         91 |          2 |          2 |         95 |
+| app\src\views\HomeView                                                                                         |          1 |         23 |          1 |          4 |         28 |
+| app\src\views\InfoUser                                                                                         |          3 |        320 |         22 |         16 |        358 |
+| app\src\views\InfoUser\FollowAndFollowed                                                                       |          2 |         78 |         17 |         14 |        109 |
+| app\src\views\ItemMusic                                                                                        |          1 |         47 |          8 |          4 |         59 |
+| app\src\views\Login                                                                                            |          1 |         11 |          0 |          2 |         13 |
+| app\src\views\MusicList                                                                                        |          1 |        145 |          8 |          3 |        156 |
+| app\src\views\Ranking                                                                                          |          1 |        352 |         13 |          4 |        369 |
+| app\src\views\Recommend                                                                                        |          1 |         28 |          0 |          4 |         32 |
+| app\src\views\Search                                                                                           |          1 |        104 |          5 |          4 |        113 |
+| app\src\views\video                                                                                            |          3 |        365 |         50 |         19 |        434 |
+| app\src\views\videoDetail                                                                                      |          1 |        625 |         65 |         47 |        737 |
+| app\src\views\video\videoChildren                                                                              |          2 |        280 |         48 |         17 |        345 |
++----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                                       | language           | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_15-03-26\details.md                 | Markdown           |         71 |          0 |          6 |         77 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_15-03-26\diff-details.md            | Markdown           |         11 |          0 |          6 |         17 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_15-03-26\diff.md                    | Markdown           |         19 |          0 |          7 |         26 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_15-03-26\results.json               | JSON               |          1 |          0 |          0 |          1 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_15-03-26\results.md                 | Markdown           |         52 |          0 |          7 |         59 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_16-14-52\details.md                 | Markdown           |         71 |          0 |          6 |         77 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_16-14-52\diff-details.md            | Markdown           |         12 |          0 |          6 |         18 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_16-14-52\diff.md                    | Markdown           |         23 |          0 |          7 |         30 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_16-14-52\results.json               | JSON               |          1 |          0 |          0 |          1 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_16-14-52\results.md                 | Markdown           |         52 |          0 |          7 |         59 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_23-09-58\details.md                 | Markdown           |         75 |          0 |          6 |         81 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_23-09-58\diff-details.md            | Markdown           |         15 |          0 |          6 |         21 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_23-09-58\diff.md                    | Markdown           |         24 |          0 |          7 |         31 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_23-09-58\results.json               | JSON               |          1 |          0 |          0 |          1 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_23-09-58\results.md                 | Markdown           |         55 |          0 |          7 |         62 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_23-37-52\details.md                 | Markdown           |         76 |          0 |          6 |         82 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_23-37-52\diff-details.md            | Markdown           |         11 |          0 |          6 |         17 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_23-37-52\diff.md                    | Markdown           |         22 |          0 |          7 |         29 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_23-37-52\results.json               | JSON               |          1 |          0 |          0 |          1 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-01_23-37-52\results.md                 | Markdown           |         55 |          0 |          7 |         62 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-05_12-37-16\details.md                 | Markdown           |         82 |          0 |          6 |         88 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-05_12-37-16\diff-details.md            | Markdown           |         27 |          0 |          6 |         33 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-05_12-37-16\diff.md                    | Markdown           |         38 |          0 |          7 |         45 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-05_12-37-16\results.json               | JSON               |          1 |          0 |          0 |          1 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\.VSCodeCounter\2022-09-05_12-37-16\results.md                 | Markdown           |         62 |          0 |          7 |         69 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\README.md                                                 | Markdown           |         15 |          0 |          5 |         20 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\babel.config.js                                           | JavaScript         |         15 |          0 |          1 |         16 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\jsconfig.json                                             | JSON with Comments |          8 |         12 |          0 |         20 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\package-lock.json                                         | JSON               |     17,808 |          0 |          1 |     17,809 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\package.json                                              | JSON               |         33 |          0 |          1 |         34 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\public\css\base.css                                       | CSS                |          1 |          0 |          0 |          1 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\public\index.html                                         | HTML               |         19 |          1 |          1 |         21 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\public\js\rem.js                                          | JavaScript         |         15 |          3 |          0 |         18 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\App.vue                                               | Vue                |         36 |          0 |          4 |         40 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\assets\css\base.css                                   | CSS                |        142 |          0 |         44 |        186 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\assets\js\confirm.js                                  | JavaScript         |         18 |         10 |          2 |         30 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\CardList.vue                               | Vue                |         80 |          0 |          4 |         84 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\FooterMusic.vue                            | Vue                |        151 |          9 |          4 |        164 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\HelloWorld.vue                             | Vue                |         57 |          0 |          3 |         60 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\ItemList.vue                               | Vue                |        104 |          6 |          4 |        114 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\ItemListRecycle.vue                        | Vue                |        123 |         37 |          8 |        168 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\Item\ItemMusicList.vue                     | Vue                |         99 |          5 |          3 |        107 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\Item\ItemMusicTop.vue                      | Vue                |        234 |          2 |          4 |        240 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\Item\MusicDetail.vue                       | Vue                |        326 |         16 |          5 |        347 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\Login\index.vue                            | Vue                |        125 |          8 |          6 |        139 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\NavBar\NavBar.vue                          | Vue                |         81 |          2 |          5 |         88 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\PClistCard\ListCard.vue                    | Vue                |        121 |          7 |          8 |        136 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\PClistTable\ListTable.vue                  | Vue                |        184 |          9 |         18 |        211 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\RecommendMusic\bgtop.vue                   | Vue                |         30 |          0 |          3 |         33 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\RecommendMusic\recommendInfo.vue           | Vue                |         92 |          1 |         13 |        106 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\comment\Comment.vue                        | Vue                |        531 |         49 |         54 |        634 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\confirm\index.vue                          | Vue                |        130 |          3 |          1 |        134 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\cookie\index.js                            | JavaScript         |         22 |          5 |          5 |         32 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\goTop\GoTop.vue                            | Vue                |        109 |          5 |         12 |        126 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\home\IconList.vue                          | Vue                |         78 |          2 |          2 |         82 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\home\MusicList.vue                         | Vue                |        103 |          1 |          5 |        109 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\home\SwiperTop.vue                         | Vue                |         52 |          6 |          4 |         62 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\home\TopNav.vue                            | Vue                |         60 |          1 |          3 |         64 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\infoUser\FollowsAndFolloweds\Followeds.vue | Vue                |        105 |         13 |          9 |        127 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\infoUser\FollowsAndFolloweds\Follows.vue   | Vue                |         84 |          6 |          7 |         97 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\infoUser\FollowsAndFolloweds\TopNav.vue    | Vue                |         75 |          5 |          4 |         84 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\infoUser\InfoUserContent.vue               | Vue                |        169 |          3 |          2 |        174 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\infoUser\InfoUserSongs.vue                 | Vue                |         20 |          0 |          2 |         22 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\infoUser\InfoUserTop.vue                   | Vue                |         65 |          1 |          2 |         68 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\listCard\ListCard.vue                      | Vue                |        122 |          7 |          8 |        137 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\listTable\ListTable.vue                    | Vue                |        212 |          4 |         16 |        232 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\recycle-scroller\index.vue                 | Vue                |        107 |          4 |          1 |        112 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\recycle-scroller\index1.vue                | Vue                |        122 |         37 |          8 |        167 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\secondNavBar\SecondNavBar.vue              | Vue                |         87 |          1 |          5 |         93 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\tabs\index.vue                             | Vue                |         71 |          0 |          3 |         74 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\components\videoListCard\VideoListCard.vue            | Vue                |        209 |         16 |         12 |        237 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\main.js                                               | JavaScript         |         31 |         15 |          9 |         55 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\plugins\element.js                                    | JavaScript         |         61 |          0 |          3 |         64 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\plugins\index.js                                      | JavaScript         |          9 |          0 |          1 |         10 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\plugins\utils.js                                      | JavaScript         |         49 |         13 |          6 |         68 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\request\api\footer.js                                 | JavaScript         |          4 |          2 |          1 |          7 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\request\api\home.js                                   | JavaScript         |         16 |         10 |          4 |         30 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\request\api\infoUser.js                               | JavaScript         |         16 |         10 |          1 |         27 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\request\api\item.js                                   | JavaScript         |         10 |          5 |          3 |         18 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\request\api\login.js                                  | JavaScript         |         13 |          8 |          1 |         22 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\request\api\musicList.js                              | JavaScript         |          7 |          4 |          1 |         12 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\request\api\ranking.js                                | JavaScript         |          7 |          4 |          1 |         12 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\request\api\search.js                                 | JavaScript         |          4 |          2 |          4 |         10 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\request\api\video.js                                  | JavaScript         |         52 |         21 |         18 |         91 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\request\index.js                                      | JavaScript         |         34 |         15 |          7 |         56 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\router\index.js                                       | JavaScript         |        104 |         37 |          4 |        145 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\store\index.js                                        | JavaScript         |        214 |         37 |          2 |        253 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\AboutView.vue                                   | Vue                |          5 |          0 |          1 |          6 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\Collection\collection.vue                       | Vue                |         91 |          2 |          2 |         95 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\HomeView\HomeView.vue                           | Vue                |         23 |          1 |          4 |         28 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\InfoUser\FollowAndFollowed\followeds.vue        | Vue                |         39 |         12 |          6 |         57 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\InfoUser\FollowAndFollowed\follows.vue          | Vue                |         39 |          5 |          8 |         52 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\InfoUser\InfoUser.vue                           | Vue                |        242 |          5 |          2 |        249 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\ItemMusic\ItemMusic.vue                         | Vue                |         47 |          8 |          4 |         59 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\Login\Login.vue                                 | Vue                |         11 |          0 |          2 |         13 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\MusicList\musicList.vue                         | Vue                |        145 |          8 |          3 |        156 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\Ranking\ranking.vue                             | Vue                |        352 |         13 |          4 |        369 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\Recommend\Recommend.vue                         | Vue                |         28 |          0 |          4 |         32 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\Search\Search.vue                               | Vue                |        104 |          5 |          4 |        113 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\videoDetail\VideoDetail.vue                     | Vue                |        625 |         65 |         47 |        737 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\video\Video.vue                                 | Vue                |         85 |          2 |          2 |         89 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\video\videoChildren\MvList.vue                  | Vue                |        155 |         18 |          9 |        182 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\src\views\video\videoChildren\VideoList.vue               | Vue                |        125 |         30 |          8 |        163 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\app\vue.config.js                                             | JavaScript         |         23 |         26 |          2 |         51 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\package-lock.json                                             | JSON               |        428 |          0 |          1 |        429 |
+| c:\Users\25416\Desktop\NeteaseCloud\NeteaseCloud\package.json                                                  | JSON               |          9 |          0 |          1 |         10 |
+| Total                                                                                                          |                    |     26,515 |        680 |        622 |     27,817 |
++----------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
